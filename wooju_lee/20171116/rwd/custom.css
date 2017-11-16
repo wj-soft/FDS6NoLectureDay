@@ -1,0 +1,29 @@
+.top{
+    background-color:skyblue;
+    height: 50px;
+}
+.main {
+    background: green;
+    height: 300px;
+}
+
+.content {
+    background: yellow;
+    height: 500px;
+
+}
+
+.card{
+    background: red;
+    margin: 15px;
+    width: 95%;
+
+}
+
+.footer{
+    background: blue;
+    height: 100px;
+}
+.col-md-4{
+    background: orange;
+}
